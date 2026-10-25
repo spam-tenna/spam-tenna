@@ -1,5 +1,8 @@
 <div align="center">art cr @dulccevias on twt</div>
 <p align="center">
+![](https://komarev.com/ghpvc/?username=spam-tenna&color=ffd1e1&label=the+audience&abbreviated=true)
+</p>
+<p align="center">
   <img src="https://files.catbox.moe/lz0o84.png" />
 </p>
 <div align="center">i'm havie/tenna - ‎anyprns, genderfluid - audhd</div>
