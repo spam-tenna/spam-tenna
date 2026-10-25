@@ -1,5 +1,5 @@
 <div align="center">art cr @dulccevias on twt</div>
-https://komarev.com/ghpvc/?username=spam-tenna&color=ffd1e1&label=%E2%98%86+THE+AUDIENCE&abbreviated=true
+![](https://komarev.com/ghpvc/?username=spam-tenna&color=ffd1e1&label=%E2%98%86+THE+AUDIENCE&abbreviated=true)
 </p>
 <p align="center">
   <img src="https://files.catbox.moe/lz0o84.png" />
