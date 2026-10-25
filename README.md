@@ -7,4 +7,4 @@
 <div align="center">tenna fictkin & spamton yume, doubles r ok</div>
 <div align="center">c+h and int freely! im open to making friends ^_^</div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spam-tenna&color=ffd1e1&label=★+THE+AUDIENCE+&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=spam-tenna&color=ffb5c2&label=★+THE+AUDIENCE+&abbreviated=true" />
